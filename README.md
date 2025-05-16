@@ -78,8 +78,8 @@
 
 | Project | Tech | Demo |
 |--------|------|------|
-| [Real Time Video Anomoly Detection]([https://github.com/BamanGayathri/Real-Time-Video-Anomaly-Detection]) | ROS 2, YOLOv8, OpenCV, Python| [Demo](https://drive.google.com/file/d/1vuJ7HEpXFULmdWSzAygJwXPG-kVcWIYq/view) |
-| [Solar-Net: Transformer Based Solar prediction]([https://github.com/BamanGayathri/Solar-Net]) | Engineered Machine Learning - SVR, RF, GBM, LSTM | - |
+| [Real Time Video Anomoly Detection](https://github.com/BamanGayathri/Real-Time-Video-Anomaly-Detection) | ROS 2, YOLOv8, OpenCV, Python| [Demo](https://drive.google.com/file/d/1vuJ7HEpXFULmdWSzAygJwXPG-kVcWIYq/view) |
+| [Solar-Net: Transformer Based Solar prediction](https://github.com/BamanGayathri/Solar-Net) | Engineered Machine Learning - SVR, RF, GBM, LSTM | - |
 | Analysis Public Chess | 1M+ Lichess.org, Python, Tableau | — |
 
 ---
