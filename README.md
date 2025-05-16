@@ -78,10 +78,9 @@
 
 | Project | Tech | Demo |
 |--------|------|------|
-| 🔐 [File Sharing App](https://github.com/rolanorebelo/File-Sharing-App) | Next.js, Firebase, Clerk, TailwindCSS | [Live](https://file-sharing-app-three-xi.vercel.app) |
-| 🧓 [Elderly Companion App](https://youtu.be/-ZqYSnEtLQY) | React Native, Firebase, Figma | [Demo](https://youtu.be/-ZqYSnEtLQY) |
-| ⚡ Power Management System | Node.js, MongoDB, WebSockets | — |
-| ✈️ Flight Delay Prediction | Python, Spark, TensorFlow, Hadoop | — |
+| [Real Time Video Anomoly Detection]([https://github.com/rolanorebelo/File-Sharing-App](https://github.com/BamanGayathri/Real-Time-Video-Anomaly-Detection)) | ROS 2, YOLOv8, OpenCV, Python| [Demo]([https://file-sharing-app-three-xi.vercel.app](https://drive.google.com/file/d/1vuJ7HEpXFULmdWSzAygJwXPG-kVcWIYq/view)) |
+| [Solar-Net: Transformer Based Solar prediction]([https://youtu.be/-ZqYSnEtLQY](https://github.com/BamanGayathri/Solar-Net)) | Engineered Machine Learning - SVR, RF, GBM, LSTM | - |
+| Analysis Public Chess | 1M+ Lichess.org, Python, Tableau | — |
 
 ---
 
