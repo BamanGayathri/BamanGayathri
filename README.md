@@ -93,7 +93,7 @@
 
 ### 📫 Reach Out
 
-- 🌐 [Portfolio]()  
+- 🌐 [Portfolio](https://bamangayathri.github.io/GB-Portfolio/Downloads/GB-Portfolio/index.html)  
 - 📄 [Resume (PDF)](https://github.com/BamanGayathri/BamanGayathri/blob/main/gayathribamanresume.pdf)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gayathri-baman-435713169/)  
 - ✉️ bgayathribaman@gmail.com 
